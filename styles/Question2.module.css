@@ -1,0 +1,11 @@
+.selecteur_quantite {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.image_60 {
+  width: 60%;
+}
+.champ_quantite {
+  text-align: center;
+}
